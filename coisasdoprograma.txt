@@ -1,0 +1,17 @@
+Aplicativo de finanças
+
+saber o dia em que foi gasto tal coisa e o dia em que aquela fatura está sendo informada
+selecionar o banco //switch
+opções{
+valor da fatura atual
+desconto da fatura atual
+}
+escrever um gasto e o que (onde) foi gasto
+salvar em um documento 
+documento pode ser acessado depois
+
+ler do documento o valor atual da fatura
+
+
+
+
